@@ -1,13 +1,8 @@
-# 👋 Olá! Eu sou Marcos V. Monteiro
+# 👋 Olá! Eu sou Marcos Monteiro
 
 - 📍 Brasília-DF
 - 💻 Eterno aluno, futuro programador
 - 🐧 Usuário Linux (Arch)
-
-## 🚀 Projetos em Destaque
-
-- [EduQuest](https://github.com/MontMarcos/EduQuest): Plataforma modular em Python para apoio ao educador, com banco de questões inteligente e ferramentas para planejamento de aulas.
-- [Config-nvim](https://github.com/MontMarcos/Config-nvim): Minhas configurações personalizadas para o Neovim.
 
 ## 🛠️ Tecnologias e Ferramentas
 
